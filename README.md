@@ -1,3 +1,15 @@
+# Investigating Variation in Psychological Intervention Access for Early Psychosis in England
+
+## Project Overview
+
+This independent Health Data Science project investigates variation in recorded achievement of psychological intervention standards across NHS trusts in England.
+
+Drawing on my background in Mental Health Nursing, I developed this project to apply Python and statistical analysis to real healthcare data.
+
+## Research Question
+
+How does recorded achievement of CBTp and family intervention standards vary across NHS trusts in England?
+
 ## Methodology
 
 ### 1. Research Design

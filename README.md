@@ -119,3 +119,17 @@ Consequently, potential influences such as patient characteristics, clinical eli
 Furthermore, recorded achievement of audit standards may not fully reflect the care delivered, particularly where clinical documentation is incomplete.
 
 The research therefore focused on identifying and describing variation rather than establishing the causes of observed differences.
+
+## Visualisations
+
+### 1. Variation in Psychological Intervention Uptake
+
+![Intervention Variation](figures/intervention_variation.png)
+
+### 2. CBTp Across NHS Trusts
+
+![CBTp Scatter Plot](figures/cbtp_scatter.png)
+
+### 3. Family Intervention Across NHS Trusts
+
+![Family Intervention Scatter Plot](figures/family_intervention_scatter.png)

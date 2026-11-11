@@ -1,0 +1,17 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Local settings
+.vscode/
+
+# Original dataset
+ncap-son-2026---england-dataset.xlsx
+
+# Local development backup
+analysis_backup.py

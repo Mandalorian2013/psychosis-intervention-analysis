@@ -221,7 +221,7 @@ The findings demonstrate the value of reproducible data preparation, visualisati
 
 ## 8. References
 
-Burgess-Barr, S., Nicholas, E., Venus, B., Singh, N., Nethercott, A., Taylor, G., & Jacobsen, P. (2023). International rates of receipt of psychological therapy for psychosis and schizophrenia: Systematic review and meta-analysis. *International Journal of Mental Health Systems, 17*, Article 8. https://doi.org/10.1186/s13033-023-00576-9
+Burgess-Barr, S., Nicholas, E., Venus, B., Singh, N., Nethercott, A., Taylor, G. M. J., & Jacobsen, P. (2023). International rates of receipt of psychological therapy for psychosis and schizophrenia: Systematic review and meta-analysis. *International Journal of Mental Health Systems, 17*, Article 8. https://doi.org/10.1186/s13033-023-00576-9
 
 Healthcare Quality Improvement Partnership. (2026). *National Clinical Audit of Psychosis (NCAP) 2026* [Data set]. UK Government. https://www.data.gov.uk/dataset/4764dc2f-31b4-4713-92a9-d54260c0b65c/national-clinical-audit-of-psychosis-ncap-2026
 
